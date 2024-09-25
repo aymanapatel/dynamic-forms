@@ -1,0 +1,36 @@
+{
+	"components": [
+		{
+			"label": "Text field",
+			"type": "range",
+			"layout": {
+				"row": "Row_1j2rovm",
+				"columns": null
+			},
+			"id": "Field_1d5ri4w",
+			"key": "textfield_xw0g3e"
+		},
+		{
+			"subtype": "date",
+			"dateLabel": "Date",
+			"label": "Date time",
+			"type": "datetime",
+			"layout": {
+				"row": "Row_0fupgc7",
+				"columns": null
+			},
+			"id": "Field_0n6eohd",
+			"key": "datetime_a76s83"
+		}
+	],
+	"type": "default",
+	"id": "Form_0d2z95s",
+	"executionPlatform": "Camunda Cloud",
+	"executionPlatformVersion": "8.3.0",
+	"exporter": {
+		"name": "Camunda Modeler",
+		"version": "5.17.0-nightly.20231022"
+	},
+	"schemaVersion": 11
+}
+
